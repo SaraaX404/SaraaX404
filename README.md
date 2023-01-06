@@ -61,4 +61,4 @@ Full-stack MERN wizard crafting sleek web apps with React, Node, Express, and Mo
 - [Generate PDF and send to S3 bucket](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_aws-nodejs-cloud-activity-7012143254322262016-9d1s?utm_source=share&utm_medium=member_desktop)
 - [Firebase Auth](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_firebase-security-idp-activity-7011924852752228352-vPvS?utm_source=share&utm_medium=member_desktop)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaraaX404&repo=me)
+
