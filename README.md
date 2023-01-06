@@ -13,7 +13,7 @@ I love the entire process of developing creative websites. I love doing coding c
 
 <a href="https://www.linkedin.com/in/thathsara-senanayaka2003-onlne/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Saraa | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/thathsarasenanayaka404/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://www.hackerrank.com/thathsarasenana1"><img align="left" src="https://th.bing.com/th/id/R.6a2120bcb8c609c4904c39d4e367fc48?rik=%2fOu2WXvWFipWqQ&pid=ImgRaw&r=0" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.hackerrank.com/thathsarasenana1"><img align="left" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/30/10/3e/30103e39-c0c5-89d3-3b47-994a044edd0a/mza_9947415717584090749.png/313x0w.webp" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -37,9 +37,9 @@ I love the entire process of developing creative websites. I love doing coding c
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Mongo-DB-informational?style=flat&logo=Mongo&color=00FF00)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=SQL&color=003B57)
-
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=Mongo&color=00FF00)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=003B57)
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
@@ -56,17 +56,10 @@ I love the entire process of developing creative websites. I love doing coding c
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
+## 📝 Latest Linkdin Posts
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- [What is next js](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_nextjs-jsabrwithabrsaraa-reactabrjs-activity-7017036910804037632-vAPM?utm_source=share&utm_medium=member_desktop)
+- [Generate PDF and send to S3 bucket](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_aws-nodejs-cloud-activity-7012143254322262016-9d1s?utm_source=share&utm_medium=member_desktop)
+- [Firebase Auth](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_firebase-security-idp-activity-7011924852752228352-vPvS?utm_source=share&utm_medium=member_desktop)
 
-## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
