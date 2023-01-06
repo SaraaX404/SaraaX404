@@ -19,18 +19,16 @@ I love the entire process of developing creative websites. I love doing coding c
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Salon Management Application
+- Garage Application
+- An E-commerce application
 
 ## 🌱 I'm currently learning
 
 - 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- Angular
+- Next js
+- Python Flask
 
 ## 💼 Technical Skills
 
