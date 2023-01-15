@@ -30,7 +30,7 @@
 
 ## 📝 Latest Linkdin Posts
 
-- [What is next js](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_nextjs-jsabrwithabrsaraa-reactabrjs-activity-7017036910804037632-vAPM?utm_source=share&utm_medium=member_desktop)
+- [Static site generation in next js](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_jsabrwithabrsaraa-nextjs-javascript-activity-7020420715619241984-crxU?utm_source=share&utm_medium=member_desktop)
 - [Generate PDF and send to S3 bucket](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_aws-nodejs-cloud-activity-7012143254322262016-9d1s?utm_source=share&utm_medium=member_desktop)
 - [Firebase Auth](https://www.linkedin.com/posts/thathsara-senanayaka2003-onlne_firebase-security-idp-activity-7011924852752228352-vPvS?utm_source=share&utm_medium=member_desktop)
 
