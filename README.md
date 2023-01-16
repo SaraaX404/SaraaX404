@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/thathsara-senanayaka2003-onlne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thathsara-senanayaka2003-onlne" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19715132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19715132" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thathsarasenana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thathsarasenana1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/SaraaX404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SaraaX" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
