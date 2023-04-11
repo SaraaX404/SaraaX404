@@ -6,7 +6,7 @@
 
 <h3 align="left">Current Status:</h3>
 
-- 🔭 I’m currently working on **Groome Digital** and **Garage Lanka** 
+- 🔭 I’m currently working on **Wire Apps**
 
 - 🌱 I’m currently learning **React Native, Angular js, Nest js**
 
