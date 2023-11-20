@@ -32,7 +32,6 @@
 
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaraaX404&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaraaX404&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p> |
 | ------------- | ------------- |
-## 📝 Latest Linkdin Posts
 
 
 
